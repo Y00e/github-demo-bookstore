@@ -1,0 +1,10 @@
+# Compiled bytecode files
+*.class
+
+# IntelliJ project files
+.idea/
+*.iml
+
+# Build output directories
+out/
+target/
